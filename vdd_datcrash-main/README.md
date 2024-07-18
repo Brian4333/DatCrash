@@ -1,1 +1,0 @@
-This is a project of which the purpose is to extract and analyze data from an official French government website, using Python libraries like Matplotlib and Pandas to visualize the data and produce a study on driving risks and prevention strategies.
